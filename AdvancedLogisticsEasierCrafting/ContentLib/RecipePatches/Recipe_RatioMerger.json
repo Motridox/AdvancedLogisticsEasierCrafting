@@ -1,0 +1,21 @@
+//AdvancedLogistics/RatioMerger/Recipe_RatioMerger.Recipe_RatioMerger_C
+{
+  "Name": "Adjustable Merger",
+  "Ingredients": [
+    {
+      "Item": "Desc_IronPlate",
+      "Amount": 20
+    },{
+      "Item": "Desc_IronRod",
+      "Amount": 20
+    }
+  ],
+  "Products": [
+    {
+      "Item": "Desc_RatioMerger",
+      "Amount": 1
+    }
+  ],
+  "UnlockedBy": [ "Schematic_1-2" ]
+}
+

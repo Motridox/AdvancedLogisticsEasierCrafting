@@ -1,0 +1,21 @@
+//AdvancedLogistics/RatioSplitter/Recipe_RatioSplitter.Recipe_RatioSplitter_C
+{
+  "Name": "Adjustable Splitter",
+  "Ingredients": [
+    {
+      "Item": "Desc_IronPlate",
+      "Amount": 20
+    },{
+      "Item": "Desc_Cable",
+      "Amount": 20
+    }
+  ],
+  "Products": [
+    {
+      "Item": "Desc_RatioSplitter",
+      "Amount": 1
+    }
+  ],
+  "UnlockedBy": [ "Schematic_1-2" ]
+}
+
